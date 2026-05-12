@@ -1,0 +1,6 @@
+name: BugrockChunkUpdateFix
+version: '${version}'
+main: com.example.bugrockfix.BugrockFixPlugin
+api-version: '1.21'
+description: Fixes chunk update desync for Bedrock (Geyser) players on gen servers
+softdepend: [floodgate]

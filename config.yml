@@ -1,0 +1,3 @@
+# The name prefix used by Geyser for Bedrock players (default: ".")
+# Only used if Floodgate API is not available.
+bedrock-prefix: "."
